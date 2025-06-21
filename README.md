@@ -1,4 +1,3 @@
-![index2](https://github.com/user-attachments/assets/ea8cde87-ac6a-487c-8d84-9b9361b6d830)# mini-ecommers-php
  a simple full-stack mini E-commers website build using HTML, CSS, JavaScript, PHP and MySQL. Ideal for beginner web developer to understand CRUD, cart handling and database integration 
 # 🛒 Mini E-Commerce Website (PHP + MySQL)
 
