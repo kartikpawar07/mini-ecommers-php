@@ -19,7 +19,10 @@ This is a small, beginner-friendly e-commerce project built using:
 ---
 
 ## 📂 Project Structure
-
+## screeshots 
+![index2](https://github.com/user-attachments/assets/f99588c9-059e-4b2b-a60c-3e1a165d4b31)
+![cart](https://github.com/user-attachments/assets/cbf86f6a-1bc2-4059-80ce-03734acec2e1)
+![checkout](https://github.com/user-attachments/assets/692fa599-db67-43a7-958e-b755d06fb2a0)
 
 ---
 
